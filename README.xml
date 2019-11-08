@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root_element attribute="attribútum">
+
+	<child_element attribute='single quoted attribute'>xml próba adatbázis</child_element>
+	
+	<making_tree attr="first_attempt">
+	<subchild a="1">a</subchild>
+	<subchild a="2">b</subchild>
+	<subchild b="3">c</subchild>
+	</making_tree>
+	
+	<!-- comment -->
+	
+	<making_tree attr="second_attempt">
+	<subtree>
+	<empty_element></empty_element>
+	<element>abc</element>
+	</subtree>
+	<element2>második elem   kihagyott spacek megmaradnak</element2>
+	<element3>123ŐÖÜLMNJ</element3>
+	</making_tree>
+	
+</root_element>
