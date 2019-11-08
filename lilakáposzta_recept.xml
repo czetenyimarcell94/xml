@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lilakáposzta>
+
+<összetevők>
+
+	<összetevő fajta="lilaká1poszta">2 kg</összetevő>
+	<összetevő fajta="só">25 g</összetevő>
+	<összetevő fajta="étolaj">80 ml</összetevő>
+	<összetevő fajta="almaecet">2 teáskanál</összetevő>
+	<összetevő fajta="víz">600 ml</összetevő>
+	<összetevő fajta="köménymag">2 csipet</összetevő>
+
+</összetevők>
+
+<elkészítés>
+
+<lépés sorszám="1">A káposzták végeit levágjuk. A külső leveleket leszedjük.</lépés>
+<lépés sorszám="2">Negyed cikkekre vágjuk a káposztafejeket.</lépés>
+<lépés sorszám="3">Majd felcsíkozzuk, a megmaradt torzsát pedig kidobjuk. A felcsíkozott káposztának kell a hozzávalóknál lévő mennyiségnek lennie.</lépés>
+<lépés sorszám="4">Ráhintjük a sót, majd jól átforgatjuk vele a káposztát, és félretesszük 30 percre állni.</lépés>
+<lépés sorszám="5">A 20 perc leteltével egy fazékban olajat melegítünk, és rászedjük a káposztát.</lépés>
+<lépés sorszám="6">Folyamatos keverés közben közepes lángon kb. 50 percen át pároljuk. Rögtön adjuk is hozzá a víz egyharmadát.</lépés>
+<lépés sorszám="7">Közben hozzáadjuk a vizet is, hogy folyamatosan legyen alatta folyadék, amin párolódhat.</lépés>
+<lépés sorszám="8">Ha megpuhult a káposzta hozzáadjuk az almaecetet, átkeverjük, és addig főzzük tovább, amíg az összes leve elpárolog. Az elkészült káposztát az őrölt köménnyel ízesítjük ízlésünk szerint.</lépés>
+<lépés sorszám="9">Tálakba szedjük, és már mehet is az asztalra!</lépés>
+
+</elkészítés>
+
+</lilakáposzta>
