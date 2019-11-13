@@ -9,7 +9,7 @@
 <Flughafen névelő="der">repülőtér</Flughafen>
 <Firma névelő="die">cég</Firma>
 <Krankenhaus névelő="das" többesszám="ër">kórház</Krankenhaus>
-<Bekannte névelő="der" névelő="die" többesszám="n">ismerős</Bekannte>
+<Bekannte többesszám="n">ismerős</Bekannte>
 <Vorstellunggespräch névelő="das">állásinterjú</Vorstellunggespräch>
 <Weinachten névelő="die">karácsony</Weinachten>
 <Bereitschaft névelő="die" többesszám="en">készenlét</Bereitschaft>
@@ -70,4 +70,5 @@
 <Im_Moment>pillanatnyilag</Im_Moment>
 
 </kifejezés>
+
 </Deutche_Wörter>
