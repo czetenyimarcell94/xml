@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Deutche_Wörter>
+
+<Főnév>
+
+<Geduld névelő="die">türelem</Geduld>
+<Möglichkeit névelő="die">lehetőség</Möglichkeit>
+<Flughafen névelő="der">repülőtér</Flughafen>
+<Firma névelő="die">cég</Firma>
+<Krankenhaus névelő="das" többesszám="ër">kórház</Krankenhaus>
+<Bekannte névelő="der" névelő="die" többesszám="n">ismerős</Bekannte>
+<Vorstellunggespräch névelő="das">állásinterjú</Vorstellunggespräch>
+<Weinachten névelő="die">karácsony</Weinachten>
+<Bereitschaft névelő="die" többesszám="en">készenlét</Bereitschaft>
+<Zug névelő="der" többesszám="e">vonat</Zug>
+<Tag névelő="der">nap</Tag>
+<Nachbar névelő="der" többesszám="n"></Nachbar>
+<Vorwahl névelő="die">előhívó</Vorwahl>
+<Telefonnummer névelő="die">telefonszám</Telefonnummer>
+<Gruppe névelő="die">csoport</Gruppe>
+<Deutchkurs névelő="das">német kurzus</Deutchkurs>
+<Musik névelő="die">zene</Musik>
+<Freude névelő="die">öröm</Freude>
+<Fremdsprache névelő="die">idegennyelv</Fremdsprache>
+<Rest névelő="der" többesszám="e">maradék</Rest>
+<Restaurant névelő="das" többesszám="s">étterem</Restaurant>
+<Konzert névelő="das" többesszám="s"></Konzert>
+<Museum névelő="das" többesszám="Museen">múzeum</Museum>
+<Monat névelő="der" többesszám="en">hónap</Monat>
+<Mohn névelő="der">mák</Mohn>
+<Moment névelő="der" többesszám="e">pillanat</Moment>
+
+</Főnév>
+
+<Ige>
+
+<gründen>megalapít</gründen>
+<an_kommen fajta="elválós">megérkezik</an_kommen>
+<verbringen prepozíció="mit" eset="D">eltölt valakivel valamit</verbringen>
+<noch_füllen fajta="elválós">utántölteni</noch_füllen>
+<respektieren>tisztel</respektieren>
+<wiederholen>megismétel</wiederholen>
+
+</Ige>
+
+<Melléknév>
+
+<pünktlich>pontos</pünktlich>
+<glücklich>szerencsés</glücklich>
+<international>internacionális</international>
+<jung>fiatal</jung>
+<logisch>logikus</logisch>
+<schwer>nehéz</schwer>
+<verheiratet>házas</verheiratet>
+
+</Melléknév>
+
+<Határozó_szó>
+
+<einige>néhány</einige>
+<wieder>újra</wieder>
+
+</Határozó_szó>
+
+<kifejezés>
+
+<im_Allgemeinem>általában</im_Allgemeinem>
+<macht_Spaß>örömet okoz</macht_Spaß>
+<Im_Moment>pillanatnyilag</Im_Moment>
+
+</kifejezés>
+</Deutche_Wörter>
