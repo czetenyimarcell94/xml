@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Gyakorlás attribútum="1">
+
+<elem tulajdonság="karakterlánc" egyébként="1">ide bármit írhatok</elem>
+<elem2>null</elem2>
+<_elem tulajdonság="underscore">
+
+<address>1</address>
+<pubdate>2</pubdate>
+<glossary>?</glossary>
+
+</_elem>
+
+</Gyakorlás>
